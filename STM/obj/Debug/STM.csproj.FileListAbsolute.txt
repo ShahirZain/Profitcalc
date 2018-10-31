@@ -1,0 +1,11 @@
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\bin\Debug\STM.exe.config
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\bin\Debug\STM.exe
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\bin\Debug\STM.pdb
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\obj\Debug\STM.csprojAssemblyReference.cache
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\obj\Debug\STM.conn.resources
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\obj\Debug\STM.Form1.resources
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\obj\Debug\STM.Properties.Resources.resources
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\obj\Debug\STM.csproj.GenerateResource.cache
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\obj\Debug\STM.csproj.CoreCompileInputs.cache
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\obj\Debug\STM.exe
+C:\Users\UMAR COMPUTER\source\repos\STM\STM\obj\Debug\STM.pdb
